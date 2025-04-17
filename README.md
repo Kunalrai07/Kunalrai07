@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hello! I'm Kunalrai07
+I'm a passionate Developer | Data Scientist | AI Enthusiast
 
-<!--
-**Kunalrai07/Kunalrai07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on: `Crypto Trading Bot`  
+🌱 Learning: `Reinforcement Learning`, `LSTM`, `AutoGPT`  
+💬 Ask me about: Python, AI/ML, Automation  
+📫 Reach me at: [krishanakumar696999@gmail.com](mailto:kunalrai7luckyno@gmail.com)  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
